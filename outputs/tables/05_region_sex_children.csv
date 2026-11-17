@@ -1,0 +1,11 @@
+factor,level,members,avg_charges,smoker_pct
+Dependents,0,573,12385.0,20.1
+Dependents,1,324,12731.0,18.8
+Dependents,2,240,15074.0,22.9
+Dependents,3+,200,14576.0,21.5
+Region,northeast,324,13406.0,20.7
+Region,northwest,324,12451.0,17.9
+Region,southeast,364,14735.0,25.0
+Region,southwest,325,12347.0,17.8
+Sex,female,662,12570.0,17.4
+Sex,male,675,13975.0,23.6

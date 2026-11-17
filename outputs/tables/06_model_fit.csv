@@ -1,0 +1,3 @@
+model,r_squared,adj_r_squared,rmse_usd
+Main effects,0.756,0.754,6005
+Main effects + smoker x obesity,0.864,0.863,4486

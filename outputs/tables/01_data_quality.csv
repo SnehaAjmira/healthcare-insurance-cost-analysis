@@ -1,0 +1,8 @@
+check_name,result
+Raw rows,1338
+Exact duplicate rows removed,1
+Rows analyzed,1337
+Null values (any column),0
+Age range,18 to 64
+BMI range,15.96 to 53.13
+Charges range (USD),1122.0 to 63770.0

@@ -1,0 +1,13 @@
+age_band,risk_segment,members,avg_charges
+18-29,Non-smoker,330,4427.0
+18-29,"Smoker, BMI 30+",45,36761.0
+18-29,"Smoker, BMI under 30",41,17374.0
+30-39,Non-smoker,199,6337.0
+30-39,"Smoker, BMI 30+",29,40635.0
+30-39,"Smoker, BMI under 30",29,19908.0
+40-49,Non-smoker,217,9183.0
+40-49,"Smoker, BMI 30+",30,42246.0
+40-49,"Smoker, BMI under 30",32,23663.0
+50-64,Non-smoker,317,13431.0
+50-64,"Smoker, BMI 30+",41,46973.0
+50-64,"Smoker, BMI under 30",27,26259.0

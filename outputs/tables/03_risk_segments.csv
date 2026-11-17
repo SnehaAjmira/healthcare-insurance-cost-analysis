@@ -1,0 +1,5 @@
+smoking_status,bmi_group,members,avg_charges,median_charges,cost_multiple_vs_baseline
+Non-smoker,BMI under 30,502,7977.0,6762.0,1.0
+Non-smoker,BMI 30+,561,8856.0,8084.0,1.11
+Smoker,BMI under 30,129,21363.0,20167.0,2.68
+Smoker,BMI 30+,145,41558.0,40904.0,5.21
